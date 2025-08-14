@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", function () {
     const imagesContainer = document.querySelector(".images");
     const preview = document.querySelector(".preview");
@@ -37,26 +36,5 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-
     window.addEventListener("scroll", handleScroll);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
